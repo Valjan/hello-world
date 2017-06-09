@@ -1,1 +1,2 @@
 # hello-world
+I'm just a part-time coder looking to learn a bit more about code in between activism, work, and the free time I spend playing competetive games or just hacing a relaxing read. I'm particularly interested in learning Common Lisp but I'm starting freecodecamp's course because it is a straightforward and well developed starting point, I'd like to get into programming for general purpose as well as game development and I hope to eventually create a large open world game that is conducive to creating stories from a non-linear narrative standpoint.
